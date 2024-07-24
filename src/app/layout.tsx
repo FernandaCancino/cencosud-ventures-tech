@@ -16,7 +16,7 @@ export default function RootLayout({
 }>): React.JSX.Element  {
   return (
     <html lang="en">
-      <body className={`${montserrat.className} antialiased dark:bg-gray-900 dark:text-white`}>
+      <body className={`${montserrat.className} antialiased`}>
         <div className="flex flex-col min-h-screen">
           <Header />
           <main className="flex-grow p-4 flex flex-col items-center justify-center mx-auto w-full max-w-4xl">
