@@ -12,6 +12,8 @@ El proyecto consiste en una aplicación web construida con Next.js y TypeScript,
 
 **Observación:** el login no esta conectado con ninguna base de datos por lo tanto puede acceder cualquier usuario que lo desee, siempre y cuando cumpla con las normas preestablecidas.
 
+Puedes acceder a la aplicación desplegada en Vercel en el siguiente enlace: [Cencosud Ventures Tech App](https://cencosud-ventures-tech.vercel.app/).
+
 ## Instalación
 
 Para instalar las dependencias del proyecto, ejecuta:
